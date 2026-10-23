@@ -46,6 +46,6 @@
 
 ```
 เนื้อหาดัดแปลงจาก "AI Vibe Coding ด้วย Claude" โดย Wanut Padee
-https://github.com/<owner>/ai-vibe-coding-by-claude
+https://github.com/nuttkku/ai-vibe-coding/tree/main/claude-code-course
 สัญญาอนุญาต CC BY-NC-SA 4.0 — https://creativecommons.org/licenses/by-nc-sa/4.0/
 ```
